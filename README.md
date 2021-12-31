@@ -100,17 +100,52 @@ haulmer2 interior
 ![image](https://user-images.githubusercontent.com/51177606/147838398-9c54a379-c940-4a3b-bbff-e5742e45a003.png)
 
 
-
-
-
-
 archivo xampp/htdocs/haulmer3
 
 
 
-**se trabajo en migraciones, base de datos, enlaces de claves foraneas y modelos aun no hay despliegue
+**se trabajo en migraciones, base de datos, enlaces de claves foraneas y modelos, pequeña interfaz de log IN y registro. formularios. se logra despliegue,
+
+** se logra implementar taildwild**
+
+
 haulmer3 interior:
 
 ![image](https://user-images.githubusercontent.com/51177606/147838465-9bba46b8-a008-4286-96e1-cf06e5a9d78f.png)
+![image](https://user-images.githubusercontent.com/51177606/147838785-759affb3-17dc-463b-a250-5a76689d99ba.png)
+
+exterior:
+
+![image](https://user-images.githubusercontent.com/51177606/147838795-8f1427ff-f188-4ddd-a6a3-cfb6d312d4cb.png)
+![image](https://user-images.githubusercontent.com/51177606/147838799-00d00caa-5710-4223-8999-337fc3669891.png)
+![image](https://user-images.githubusercontent.com/51177606/147838804-f11ac325-f2a6-4a79-b404-4e6e7de2245a.png)
+
+
+**no se logra registrar a un usuario**
+
+
+archivo xampp/htdocs/haulmer4
+
+Se trabajo en permisos de administrador y usuario. voy más profundo en estructura de BD. 
+se incluye bootstrap para desplegar log in.
+
+conceptos: 
+seeders
+carpeta middleware.
+kernel.
+vistas.
+
+**se logra crear un usuario en BD y logearse con esas credenciales:
+![image](https://user-images.githubusercontent.com/51177606/147838923-5cdac082-0452-431c-8182-059be7f2a3d2.png)
+
+![image](https://user-images.githubusercontent.com/51177606/147838929-17dac923-a157-404c-b7ec-39e1c07561a7.png)
+
+
+
+
+
+
+
+
 
 
