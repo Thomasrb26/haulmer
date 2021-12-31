@@ -104,4 +104,13 @@ haulmer2 interior
 
 
 
+archivo xampp/htdocs/haulmer3
+
+
+
+**se trabajo en migraciones, base de datos, enlaces de claves foraneas y modelos aun no hay despliegue
+haulmer3 interior:
+
+![image](https://user-images.githubusercontent.com/51177606/147838465-9bba46b8-a008-4286-96e1-cf06e5a9d78f.png)
+
 
