@@ -46,15 +46,62 @@ paso 3:
 Dificultades:
 
 estudio de plataforma y documentacion de laravel:
-se logra primer  despligue de primer prototipo para conocer el entorno de trabajo.
+se logra primer  despligue de primer prototipo para conocer entorno de trabajo.
+
+conceptos importantes:
+carpeta public -> carpeta que puede ver  el usuario
+carpeta routes/web.php
+
+se declaran todas las vistas.
+ metodos :
+Route::get($uri, $callback);
+Route::post($uri, $callback);
+Route::put($uri, $callback);
+Route::patch($uri, $callback);
+Route::delete($uri, $callback);
+Route::options($uri, $callback);
+
+
+capeta /views vistas de usuario,login,contenido etc.
+
+/http/controladores
+CONTROLADORES DE VISTA.
 
 se utilizó XAMPP para realizar el desplige:
 
 archivo xampp/htdocs/haulmer
 ![image](https://user-images.githubusercontent.com/51177606/147837851-38167334-6d8c-4b94-ae4f-7093be7c0e51.png)
 
-
 **como comentario, framework modelo vista controlador. con estructura un poco más compleja que codeignater 3. 
+
+
+
+
+archivo xampp/htdocs/haulmer2
+
+
+Primer prototipo de basd de datos:
+![image](https://user-images.githubusercontent.com/51177606/147838212-101a320c-4cb7-4f70-8050-ce392d9290c0.png)
+
+
+**se trabajo  base de datos en entorno de php, pero luego vi que  en laravel las bases de datos se manejan desde el editor de texto. **
+conceptos importantes conocidos:
+
+Migrations, modelo/User,seeders
+carpeta middleware.
+
+**se intenta usar tailwild y se hace intento de usar compose require laravel/ui ya que contiene plantilla pre-hecha para logear y registrar usuario.
+
+ para insertar estilos 
+https://tailwindcss.com/
+
+
+haulmer2 interior
+![image](https://user-images.githubusercontent.com/51177606/147838398-9c54a379-c940-4a3b-bbff-e5742e45a003.png)
+
+
+
+
 
 
 
